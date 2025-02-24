@@ -6,7 +6,16 @@
     <description>Recent content in Posts on 无名的旅人</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 01 Feb 2025 05:15:10 +0800</lastBuildDate><atom:link href="https://briteming.github.io/jgi/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Feb 2025 01:03:04 +0800</lastBuildDate><atom:link href="https://briteming.github.io/jgi/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试2</title>
+      <link>https://briteming.github.io/jgi/post/2/</link>
+      <pubDate>Tue, 25 Feb 2025 01:03:04 +0800</pubDate>
+      
+      <guid>https://briteming.github.io/jgi/post/2/</guid>
+      <description>这是测试2. Comments: (on github issue)</description>
+    </item>
+    
     <item>
       <title>测试</title>
       <link>https://briteming.github.io/jgi/post/1/</link>
